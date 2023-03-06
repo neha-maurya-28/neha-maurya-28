@@ -1,4 +1,4 @@
-# Hi there, Neha this side👋
+# Hi there👋 Neha this side
 Web Development || ML Enthusiast || Coordinator @Innogeeks
 # 💫 About Me:
 🌏 I'm based in India<br>🔭 I'm currently working on CartMate<br>🤝 I'm looking for help with CartMate<br>🌱 I'm currently learning Django REST
