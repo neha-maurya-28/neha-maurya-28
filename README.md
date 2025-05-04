@@ -1,5 +1,5 @@
 # Hi👋, I'm Neha Maurya
-Developer || Core Team @Innogeeks
+Developer || Core Lead @Innogeeks
 # 💫 About Me:
 🌏 I'm based in India<br>🔭 I'm currently working on Web Development & Competitive Programming<br>🤝 Reach me at nehamaurya2528@gmail.com<br>🌱 I'm currently learning Django REST
 
