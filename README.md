@@ -1,5 +1,5 @@
 # Hi👋, I'm Neha Maurya
-Developer
+SDET
 # 💫 About Me:
 🌏 I'm based in India<br>🤝 Reach me at nehamaurya2528@gmail.com<br>
 
